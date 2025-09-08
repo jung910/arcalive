@@ -1,6 +1,7 @@
 {
   "name": "arcalive-gpt-api",
   "version": "1.0.0",
+  "type": "module",
   "dependencies": {
     "arcalive": "^0.4.1"
   }
